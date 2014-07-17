@@ -1,0 +1,12 @@
+z3c.recipe.staticlxml
+*.egg
+*.egg-info
+parts
+var
+bin
+build
+*.pyc
+*.pyo
+.installed.cfg
+*~
+develop-eggs
